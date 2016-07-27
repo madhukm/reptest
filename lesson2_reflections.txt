@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 --- .git directory gets created
 --- directory will considered as branch Master
 How is Staging area different from Working directory?What value do you think it offers?
+
+
+How can you use the staging area to make sure you have one commit per logical change?
