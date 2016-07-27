@@ -6,3 +6,9 @@ How is Staging area different from Working directory?What value do you think it 
 
 
 How can you use the staging area to make sure you have one commit per logical change?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
