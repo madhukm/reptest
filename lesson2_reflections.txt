@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+--- git marks it as initial commit
+--- .git directory gets created
+--- directory will considered as branch Master
+How is Staging area different from Working directory?What value do you think it offers?
